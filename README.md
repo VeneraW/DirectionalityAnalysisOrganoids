@@ -14,6 +14,12 @@ Dir – subset of angles which are moving towards the centre of an organoid, sel
 Original tracks, labelled by TrackID
 ![image](https://user-images.githubusercontent.com/18525857/112373902-c07ed580-8ce1-11eb-8d40-c5b0b7b7368f.png)
 
+Tracks centered with respect to the organoid and labelled based on quadrant of a specimen (black tracks are virtually crossing symmetry line and are ommited in further processing)
+![image](https://user-images.githubusercontent.com/18525857/112373979-d8565980-8ce1-11eb-87bb-a6f111c4b5c2.png)
+
+Distribution of tracks in terms of angular direction and direction with respect to the center of an organoid (light gray outward movement, dark gray inward movement)
+![image](https://user-images.githubusercontent.com/18525857/112374012-e3a98500-8ce1-11eb-99e1-799c3589b924.png)
+
 The script was developed by: 
 Lucie Zilova, Venera Weinhardt, Tinatini Tavhelidse, Thomas Thumberger, Joachim Wittbrodt. Fish primary embryonic stem cells self-assemble into retinal tissue mirroring in vi early eye development. Preprint on bioRxiv: https://doi.org/10.1101/2021.01.28.428593 
 
