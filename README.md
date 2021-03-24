@@ -11,6 +11,9 @@ The script returns:
 Phi – angle in radians of each track 
 Dir – subset of angles which are moving towards the centre of an organoid, selected based on directionality of tracks in each quadrant of a specimen. 
 
+Original tracks, labelled by TrackID
+![image](https://user-images.githubusercontent.com/18525857/112373902-c07ed580-8ce1-11eb-8d40-c5b0b7b7368f.png)
+
 The script was developed by: 
 Lucie Zilova, Venera Weinhardt, Tinatini Tavhelidse, Thomas Thumberger, Joachim Wittbrodt. Fish primary embryonic stem cells self-assemble into retinal tissue mirroring in vi early eye development. Preprint on bioRxiv: https://doi.org/10.1101/2021.01.28.428593 
 
